@@ -1,4 +1,4 @@
-programmeren-met-java
-=====================
+groept-java-2-master
+====================
 
-Programmeren met Java - 2de jaar
+Master repo for  Java 2nd year
