@@ -10,6 +10,8 @@
 		<sonar.host.url>http://http://http://52.66.210.77:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>bhanu</sonar.password>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<base.dir>/</base.dir>
 		<downloadSources>true</downloadSources>
 	</properties>
