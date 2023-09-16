@@ -8,7 +8,6 @@
 
 	<properties>
 		<sonar.host.url>http://http://http://52.66.210.77:9000/</sonar.host.url>
-		<sonar.sourceEncoding=UTF-8>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>bhanu</sonar.password>
 		<base.dir>/</base.dir>
